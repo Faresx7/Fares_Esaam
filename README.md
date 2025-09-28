@@ -1,42 +1,41 @@
 👋 Hello and Welcome to My GitHub Profile!
 I'm 
 ∗∗Fares∗∗
-, and this is my digital workshop where I gather all my code, projects, and ideas. If you're looking for clean, efficient, and passionately built software, you're in the right place!
+This is my Repository, where I display all my projects and ideas.
 
-💻 My Vibe & Focus
+💻 Focus
 I am a 
 
-YourPrimaryRole/Profession,e.g.,SoftwareDeveloper,DataScientist
+AI & Data Scientist
 , currently focused on 
 
-∗∗Yourmainareaofexpertise,e.g.,Full−StackWebDevelopment,DataEngineering,orAI/ML∗∗
-.
+∗∗Data analysis to get important insights from data and make AI/ML models∗∗
 
-Here are the technologies and tools I enjoy working with the most:
 
-Core Languages: Python (The reliable workhorse), JavaScript/TypeScript (The web essential), SQL (The data backbone).
+🧑🏼‍💻 The technologies and tools I'm working with the most:
 
-The Stack & Frameworks: 
-
-Listkeytechnologies,e.g.,React,Node.js,Pandas,TensorFlow
-.
+Core Languages: Python and SQL
+Analysis tools: pandas, matplotlib, numpy, VS Code, Jupyter Notebook and Excel
+Visualization tools: matplotlib, seaborn, plotly
+Dashboard tools: Streamlit, Dash, Power BI
+ML tools: Scikit-learn, TensorFlow and PyTorch
 
 Side Interests: 
-
-Mentionacomplementaryfield,e.g.,GameDevelopment,UI/UXDesign,orBlockchain
+Problem solving,
 .
 
 🎯 What You'll Find Here (Key Projects)
-Below are a few projects I'm particularly proud of that showcase my skills and interests:
+Below are a few projects that showcase my skills and interests:
 
-ProjectName1
-: (A brief, one-sentence idea of the project.)
+Exploratory Data Analysis (EDA) on the Marathons Dataset:
+(Conducted exploratory data analysis on Marathons dataset to uncover trends in participation, performance, and demographics over time, providing actionable insights for what has happened in the last 4 decades in Marathons.)
 
-ProjectName2
-: (What real-world problem does this project solve?)
+Data cleaning:
+(Cleaning datasets and optimizing their features to be accurate.)
 
-ProjectName3
-: (What unique technology or approach did you use here?)
+
+Tic-Tac-Toe game: 
+(Small Tic-Tac-Toe that learned me a lot about project management)
 
 "I believe that good code should be as easy to read as it is to write." ✍️
 
@@ -44,12 +43,12 @@ ProjectName3
 I'm always excited about new projects, collaborations, and learning opportunities. Feel free to reach out with any questions or proposals!
 
 Email: 
+[FaresEsaam001@gmail.com]
 
-Your.Email@example.com
 LinkedIn: 
+(Fares Esaam)[www.linkedin.com/in/fares-esaam-0b3491222]
 
-YourLinkedInProfileURL
-Personal Website (Optional): 
+Portfolio: 
+(Fares Esaam)[https://www.canva.com/design/DAGyUXOtMjA/xQUc_VeThMWoajobp8_M6g/edit?utm_content=DAGyUXOtMjA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 
-YourWebsiteURL
-Thanks for stopping by! I hope you like the code. 😉
+Thanks for stopping by! I hope you like my repo. 😉
