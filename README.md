@@ -1,13 +1,11 @@
 # 👋 Hello and Welcome to My GitHub Profile!
-I'm 
-**Fares**
+I'm **Fares**
+I am a **AI & Data Scientist**
 This is my Repository, where I display all my projects and ideas.
 
 💻 Focus
-I am a **AI & Data Scientist**
 
 currently focused on 
-
 **Data analysis to get important insights from data and make AI/ML models**
 
 
