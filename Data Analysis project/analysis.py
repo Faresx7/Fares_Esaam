@@ -335,19 +335,18 @@ p80_22.loc[p80_22['Year_of_event'] <= 1995, 'Athlete_average_speed'] *= conversi
 # Data Frame for year and mean avg speed of it
 avg_s_80_22 = p80_22.groupby('Year_of_event')['Athlete_average_speed'].mean().reset_index()
 
-def test():
-    fig_line5=px.line(avg_s_80_22
-            ,x='Year_of_event'
-            ,y='Athlete_average_speed'
-            ,title='<b>Average Speed for each year'
-            ,labels={
-                    'Year_of_event': 'Year',
+
+fig_line5=px.line(avg_s_80_22
+        ,x='Year_of_event'
+        ,y='Athlete_average_speed'
+        ,title='<b>Average Speed for each year'
+        ,labels={
+                   'Year_of_event': 'Year',
                     'Athlete_average_speed': 'Average Speeds (km/h)'
                 }
-            ,markers=True
-            ,color_discrete_sequence=["#0077FF"]
+        ,markers=True
+        ,color_discrete_sequence=["#0077FF"]
             )
-    return fig_line5
 
 
 
@@ -366,3 +365,20 @@ fig_line6=px.line(num_of_finishers80_22
         ,x='Year_of_event'
         ,y='Event_number_of_finishers'
         ,markers=True)
+
+
+mean_age_80_22=p80_22.groupby(["Year_of_event",'Athlete_gender'])['Age'].mean().reset_index()
+gender_map={0:'Female',1:'Male'}
+mean_age_80_22['Athlete_gender']=mean_age_80_22['Athlete_gender'].map(gender_map)
+
+
+px.line(mean_age_80_22
+        ,x="Year_of_event"
+        ,y='Age'
+        ,color='Athlete_gender'
+        ,labels={'Year_of_event':'Year'
+                 ,'Age':'Mean Age'
+                }
+        ,title='<b>Mean Age for each year'
+
+        )
