@@ -43,6 +43,6 @@ LinkedIn:
 [Fares Esaam](www.linkedin.com/in/fares-esaam-0b3491222)
 
 Portfolio: 
-[Fares Esaam](https://www.canva.com/design/DAGyUXOtMjA/xQUc_VeThMWoajobp8_M6g/edit?utm_content=DAGyUXOtMjA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Fares Esaam](https://github.com/Faresx7/Portfolio)
 
 Thanks for stopping by! I hope you like my repo. 😉
