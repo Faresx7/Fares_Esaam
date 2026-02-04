@@ -1,7 +1,7 @@
 import pickle
 from .cleaning_text import clean_text
 
-with open('model\student_career_model.pkl', 'rb') as f:
+with open('NLP/model/student_career_model.pkl', 'rb') as f:
     data = pickle.load(f)
 
 model = data["model"]
