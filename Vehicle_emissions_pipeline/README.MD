@@ -1,6 +1,9 @@
 ## Vehicle Emissions ML Pipeline
 
-- this project works with **RandomForestRegressor** to predict vehicle emission based on data previously trained
+- this project works with **RandomForestRegressor** to predict vehicle emission based on data previously trained.
+
+# Goal from project
+- To gain hands-on knowledge of pipelines and apply them myself for a deeper understanding.
 
 # - steps
 1. Load data
